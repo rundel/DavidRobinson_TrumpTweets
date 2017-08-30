@@ -1,5 +1,0 @@
-* Added new color palette for plots
-
-* Add contact information
-
-* Other stuff
